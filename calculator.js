@@ -29,6 +29,15 @@ function buttonClick(value){
                 screen.innerText = "0"
                 rinningTotal = 0
                 break;
+            case "←":
+                if (screen.innerText.length === 1){
+                    screen.innerText = "0";   
+                    buffer = "0"
+                }
+                else{
+                    screen.innerText = screen.innerText.substring(0, screen.innerText.length - 1);
+                }
+                break;
             case "=":
                 if(previosOperator === null){
                     return;
