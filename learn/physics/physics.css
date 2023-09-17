@@ -1,0 +1,57 @@
+.icon{
+    border-radius: 300px;
+    width: 15rem;
+    border: 0.5rem;
+    border-style: solid;
+    border-color: black;
+    margin-top: 25rem;
+    margin-left: 20rem;
+}
+
+.divCell{
+    float:left;
+    display:table-column;
+}
+
+.divRow{
+    display:  table-row;
+}
+
+#arrow_1{
+    margin-top: 25rem;
+    margin-left: 20rem;
+}
+
+
+body{
+    background-color: rgb(161, 46, 0);
+    width: 600rem;
+}
+
+.line{
+    width: 20rem;
+    height: 10rem;
+}
+
+
+#physics{
+    border-radius: 300px;
+    width: 15rem;
+    border: 0.5rem;
+    border-style: solid;
+    border-color: black;
+}
+
+#text_1{
+    color: rgb(26, 47, 80);
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Tilt Prism', cursive;
+    font-size: 4rem;
+    margin-top: 35rem;
+}
+
+#block{
+    background-color: rgb(90, 23, 23);
+    border-top: -10rem;
+}

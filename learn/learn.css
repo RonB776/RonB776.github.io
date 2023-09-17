@@ -1,0 +1,35 @@
+
+.icon{
+    width: 20rem;
+    height: 20rem;
+    display: flex;
+    position: relative;
+    border-radius: 300px;
+    border: 0.5rem;
+    border-style: solid;
+    border-color: black;
+    margin-left: 3rem;
+}
+
+body{
+    background-color: rgb(31, 43, 43);
+    height: 400rem;
+}
+
+#title{
+    font-size: 8rem;
+    margin-top: 25rem;
+    font-family: 'Caprasimo', cursive;
+    margin-left: 30rem;
+    color: rgb(19, 151, 151);
+    position: relative;
+}
+
+.divRow{
+    display:  table-row;
+}
+
+.divCell{
+        float:left;
+        display:table-column;
+}

@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(32, 30, 30);
+    margin-left: 35rem;
+}
+
+.text_2{
+    font-family: Jazz LET, fantasy;
+    color:rgb(28, 179, 128)
+}
+
+#text_1{
+    font-family: Jazz LET, fantasy;
+    color:rgb(28, 179, 128);
+    padding-bottom: 5rem;
+    font-size: 10rem;
+}
+
+#click_create{
+    background-color: rgb(28, 179, 128);
+    width: 7rem;
+    height: 3rem;
+    font-size: 1rem;
+    font-family: Jazz LET, fantasy;
+}
+
+#link_area{
+    margin-top: 1rem;
+    width: 50rem;
+    height: 3rem;
+    background-color: darkgray;
+    border-radius: 20px;
+}
+
+.write_link{
+    font-size: 2rem;
+}
+
+#the_link{
+    margin-top: 1rem;
+    font-size: 1rem;
+}

@@ -1,0 +1,56 @@
+.video{
+    
+    margin-left: 15rem;
+}
+
+body{
+    background-color: rgb(31, 93, 134);
+    width: 400rem;
+}
+
+h1{
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4rem;
+    color: rgb(221, 192, 30);
+}
+
+.divCell{
+    float:left;
+    display:table-column;
+}
+
+.title{
+    margin-top: 20rem;
+    margin-left: 15rem;
+}
+
+
+.icon{
+    border-radius: 300px;
+    width: 15rem;
+    border: 0.5rem;
+    border-style: solid;
+    border-color: black;
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(16, 169, 196); 
+    border-radius: 10px;
+  }
+   
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgb(28, 160, 184); 
+    border-radius: 10px;
+  }
+  
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background:rgb(40, 130, 146); 
+  }

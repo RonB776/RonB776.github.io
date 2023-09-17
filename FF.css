@@ -1,0 +1,49 @@
+.color-line{
+    display: block;
+    width: 90rem;
+    height: 8rem;
+    background-color: rgb(6, 68, 37);
+}
+
+body{
+    background-color: rgb(8, 122, 69);
+}
+
+#text_1{
+    font-size: 2rem;
+    width: 20rem;
+    height: 20rem;
+    margin-right: 50rem;
+}
+
+#img_1{
+    width: 20rem;
+    height: 20rem;
+    margin-left: 50rem;
+}
+
+.icon_XBOX{
+    width: 20rem;
+    height: 20rem;
+    transition: all 2s ease-in-out;
+    margin-top: 5rem;
+    margin-left: 15rem;
+}
+
+.icon_XBOX:hover{
+    transform: rotate(30deg);
+}
+
+#next{
+    background-color: rgb(12, 134, 165);
+}
+
+#new_card{
+    width: 40rem;
+    height: 45rem;
+    margin-left: 30rem;
+}
+
+.box{
+    margin-left: 10rem;
+}
