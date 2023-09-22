@@ -1,0 +1,29 @@
+#messages{
+    z-index: 2;
+    position: relative;
+    background-color: rgb(179, 178, 178);
+}
+
+p{
+    border-radius: 5rem;
+    background-color: rgb(68, 68, 223);
+    color: white;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    width: 10rem;
+    height: 3rem;
+}
+
+
+#write_area{
+    z-index: 1;
+    position: relative;
+    margin-top: 40rem;
+    border-radius: 5rem;
+}
+
+#sendButton{
+    z-index: 1;
+    position: relative;
+    border-radius: 5rem;
+}
